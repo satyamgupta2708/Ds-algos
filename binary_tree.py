@@ -1,4 +1,4 @@
-
+# this is inorder binary where the order of printing the element is left, root, right
 class Node:
     def __init__(self, data):
 
